@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/P-fique_Portifolio/static/css/main.93f88e61.css",
+    "main.js": "/P-fique_Portifolio/static/js/main.a9e5e3f0.js",
+    "static/media/web.jpg": "/P-fique_Portifolio/static/media/web.a24b6126994d53b05450.jpg",
+    "static/media/appa.jpg": "/P-fique_Portifolio/static/media/appa.604df48751def0c021e6.jpg",
+    "static/media/weba.jpg": "/P-fique_Portifolio/static/media/weba.3917bf8c30f22f7e74fc.jpg",
+    "static/media/wooka2.jpg": "/P-fique_Portifolio/static/media/wooka2.4505ae55cc11394f846f.jpg",
+    "static/media/wooka1.jpg": "/P-fique_Portifolio/static/media/wooka1.54632918963392223da3.jpg",
+    "static/media/app.jpg": "/P-fique_Portifolio/static/media/app.24b6cce04fe821566199.jpg",
+    "static/media/wooka.jpg": "/P-fique_Portifolio/static/media/wooka.d1396a20872d1579675c.jpg",
+    "static/media/profile.jpg": "/P-fique_Portifolio/static/media/profile.87a2aeaf3eb79b889b82.jpg",
+    "static/media/profile.png": "/P-fique_Portifolio/static/media/profile.22a8763c7f9fdb919c17.png",
+    "static/media/work2.jpg": "/P-fique_Portifolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work3.jpg": "/P-fique_Portifolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/P-fique_Portifolio/index.html",
+    "main.93f88e61.css.map": "/P-fique_Portifolio/static/css/main.93f88e61.css.map",
+    "main.a9e5e3f0.js.map": "/P-fique_Portifolio/static/js/main.a9e5e3f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f88e61.css",
+    "static/js/main.a9e5e3f0.js"
+  ]
+}
